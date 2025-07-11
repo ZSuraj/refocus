@@ -2,6 +2,8 @@
 
 **Refocus** is a focus and accountability assistant combining a Python backend with an Electron-based frontend. The app is designed to help you stay on task and manage your time effectively.
 
+https://github.com/user-attachments/assets/6d0cceb6-7612-4abe-96a7-a81daec62110
+
 ---
 
 ## 🛠 Tech Stack
@@ -16,7 +18,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/refocus.git
+git clone https://github.com/ZSuraj/refocus.git
 cd refocus
 ```
 
